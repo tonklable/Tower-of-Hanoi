@@ -6,7 +6,7 @@
 
 ## 1 Introduction
 
-<img src="https://github.com/tonklable/Tower-of-Hanoi/blob/main/Tower_of_Hanoi.png" width="500" />
+<img src="https://github.com/tonklable/Tower-of-Hanoi/blob/main/Picture/Tower_of_Hanoi.png" width="500" />
 
 ```
 Figure 1: The purpose of Tower of Hanoi
@@ -34,7 +34,7 @@ side of the smaller numbers according to the rule. As in the Figure 2, this step
 is represented by the list [[3],[2,1],[]]. The variable used to keep the template is
 ”pegs”.
 
-<img src="https://github.com/tonklable/Tower-of-Hanoi/blob/main/Towers-Of-Hanoi%20(1)%20(1).png" width="500" />
+<img src="https://github.com/tonklable/Tower-of-Hanoi/blob/main/Picture/Towers-Of-Hanoi%20(1)%20(1).png" width="500" />
 
 ```
 Figure 2: Tower of Hanoi in the template [[3],[2,1],[]]
@@ -50,7 +50,7 @@ printpegs is a function used to illustrate the model of each step from the templ
 input [[3],[2,1],[]], this function prints out the model as in Figure 3. Then, this
 function can be applied to the movedisk function. (See Section 3.2)
 
-<img src="https://github.com/tonklable/Tower-of-Hanoi/blob/main/Tower%20of%20Hanoi2.png" width="500" />
+<img src="https://github.com/tonklable/Tower-of-Hanoi/blob/main/Picture/Tower%20of%20Hanoi2.png" width="500" />
 
 ```
 Figure 3: Tower of Hanoi model from the function printpegs
